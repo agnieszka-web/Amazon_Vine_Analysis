@@ -22,4 +22,4 @@ Questions:
 
 ## Summary: 
 The calculated results show that there isn't any bias from the members of the paid Amazon Vine Program towards the reviews.  The numbers show that there were only 22 votes from the memebers of the Vine Program and overwhelming 26987 votes from the Non_vine members for all the votes.  As for the five star reviews there were only 13 votes from the Vine Program and 14475 votes from the Non_vine program.
-Another type of analysis to support these findings could be NLP Sentiment Analysis (opinion mining) which would show the positive, negative, or neutral tone of the reviews.  Five star review implies positive emotions as one star implies negetive emotion.  
+Another type of analysis to support these findings could be NLP Sentiment Analysis (opinion mining) which would show the positive, negative, or neutral tone of the reviews.  Five star review implies positive emotions as one star implies negative emotion.  
