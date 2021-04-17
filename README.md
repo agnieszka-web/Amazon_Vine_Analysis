@@ -1,9 +1,9 @@
 # Amazon_Vine_Program_Analysis
 
-## Resources
+## Resources:
 AWS, PgAdmin4, Google Colab, PySpark
 
-## Overview of analysis
+## Overview of analysis:
 To find out if there is any bias towards shoe reviews written by members of the Amazon Vine Program (a service that allows publishers and manufacturers to receive reviews for their products)
 Questions:
 * How many Vine reviews and non-Vine reviews were there?
